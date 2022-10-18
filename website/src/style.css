@@ -1,0 +1,14 @@
+:root {
+    --light-brown: #A0958E;
+    --off-white: #EAE8E7;
+    --black: #000000;
+}
+
+body {
+    background-color: var(light-brown);
+    font-family: 'Montserrat';
+}
+
+h1 {
+    font-family: 'Montserrat'; 
+}
