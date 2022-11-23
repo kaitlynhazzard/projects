@@ -8,7 +8,9 @@ body {
     background-color: var(--light-brown);
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
+    font-size: 25px;
     color: black;
+    margin: 35px;
 }
 
 main {
@@ -26,13 +28,6 @@ h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
     font-size: 35px;
-}
-
-.link {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 100;
-    font-size: 35px;
-    margin: 0px;
 }
 
 a,
